@@ -1,2 +1,2 @@
-Git is useful for tracking cybersecurity scripts and security-related code.
+Developer B: Git improves secure team collaboration.
 Developer B: Security alert system enabled
