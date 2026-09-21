@@ -1,1 +1,2 @@
-Git is useful for tracking cybersecurity scripts and security-related code.
+Developer A: Git is essential for cybersecurity collaboration.
+Developer A: Security monitoring enabled
