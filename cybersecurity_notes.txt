@@ -1,2 +1,6 @@
+
+Developer B: Git improves secure team collaboration.
+Developer B: Security alert system enabled
+
 Developer A: Git is essential for cybersecurity collaboration.
 Developer A: Security monitoring enabled
